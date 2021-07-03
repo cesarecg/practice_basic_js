@@ -1,1 +1,1 @@
-# practice_basic_js
+# Quick review of the bases of Javascript
